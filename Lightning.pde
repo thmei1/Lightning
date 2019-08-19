@@ -1,8 +1,7 @@
+startX;
 void setup()
 {
   size(300,300);
-  var startX;
-  var startY;
 }
 void draw()
 {
